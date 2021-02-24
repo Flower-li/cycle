@@ -9,7 +9,7 @@
             target="_blank"
             >关于我们</el-link
           >
-          <el-link :underline="false" type="primary">注册</el-link>
+          <el-link :underline="false" type="primary">注册 223423</el-link>
           <el-link :underline="false" type="success">忘记密码</el-link>
           <el-link :underline="false" type="warning">在线客服</el-link>
           <el-link :underline="false" type="danger">帮助中心</el-link>
